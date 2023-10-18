@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500&display=swap');
+*{
+    font-family: 'Montserrat Alternates', sans-serif;
+    /* background-color: black; */
+}
+.nav1{
+  background-color: #024807;
+}
+
+.bg-img{
+  background-image:linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.2)), url("https://wallpaperaccess.com/full/7013534.jpg");
+  height: 100vh;
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.leaf{
+  color: #4fba56;
+}
+.form{
+  width: 50vw;
+  padding: 30px;
+  border: 2px solid #4fba56;
+  border-radius: 20px;
+  position: absolute;
+  top: 15%;
+  left: 25%;
+  color: white;
+}
+.btn{
+  background-color: #09590e;
+  color: white;
+}
+.posterhead{
+  color: white;
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  font-size: 35px;
+  text-align: center;
+}
+.btn2{
+  color: white;
+}
+.posterhead2{
+  color: #024807;
+  position: absolute;
+  top: 30%;
+  right: 10%;
+  font-size: 35px;
+  text-align: center;
+}
+.pera2{
+  font-size: 85px;
+}
+.img2{
+  width: 50%;
+  border: 3px solid #4fba56;
+  border-radius: 5%;
+}
+.img1{
+  width: 70%;
+  border-radius: 5%;
+}
+.about{
+  padding: 2%;
+  margin: 2%;
+}
+a{
+  text-decoration: none;
+  color: #4fba56;
+}
+.order{
+  background-color: white;
+  width: 100%;
+  color: black;
+}
+
+.contact{
+  padding: 2%;
+  background-color: antiquewhite;
+}
+.info{
+  margin: 5%;
+  color: #09590e;
+}
+
